@@ -9,7 +9,7 @@ o	Subtraction
 o	Multiplication
 o	Division
 '''
-print(f'addition : {x+y}',f'\nSubstraction : {x-y}',f'\nMultiplication : {x*y}',f'\nDivision : {x/y}')
+print(f'Addition : {x+y}',f'\nSubstraction : {x-y}',f'\nMultiplication : {x*y}',f'\nDivision : {x/y}')
 
 # Task 2: Create a Personalized Greeting
 
