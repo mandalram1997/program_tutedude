@@ -1,7 +1,6 @@
 # Task 1: Perform Basic Mathematical Operations
 x = int(input("enter First number : "))
 y = int(input("enter secoand number : "))
-print(f"two number's {x,y}")
 
 '''Performs the basic mathematical operations on these two numbers:
 o	Addition
