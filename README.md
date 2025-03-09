@@ -1,11 +1,12 @@
-task1
+#Assignment
+#task1
 step 1
 to define x and y two variable 
 step 2
 and do all the operation themselves.
 like operation addition, substraction, multification,division. 
 using print function to diplay the output
-task2
+#task2
 step 1
 to define First_name and Last_Name teo variable, 
 step 2
